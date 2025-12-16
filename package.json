@@ -1,0 +1,8 @@
+{
+  "name": "quartz-fabricators",
+  "version": "1.0.0",
+  "description": "Static GitHub Pages sites for quartz fabricators.",
+  "scripts": {
+    "build": "node scripts/build-pages.js"
+  }
+}

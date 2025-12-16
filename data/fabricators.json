@@ -1,0 +1,71 @@
+[
+  {
+    "slug": "crystal-edge",
+    "name": "Crystal Edge Fabrication",
+    "tagline": "Architectural quartz solutions with lab-grade precision.",
+    "location": "Austin, TX",
+    "services": [
+      "Custom countertops & waterfall islands",
+      "Laboratory-grade benchtops",
+      "CNC edge profiling & polishing",
+      "On-site templating & installation"
+    ],
+    "about": "Crystal Edge specializes in tight-tolerance quartz fabrication for commercial kitchens and research labs. Our team pairs advanced metrology with rapid prototyping to keep projects on spec and on schedule.",
+    "contact": {
+      "phone": "+1 (512) 555-1223",
+      "email": "hello@crystaledge.shop",
+      "website": "https://crystaledge.example.com"
+    },
+    "highlights": [
+      "ISO 9001 shop with climate-controlled finishing bays",
+      "5-axis CNC routing for complex cut-outs",
+      "Zero-silica dry polishing available for sensitive facilities"
+    ]
+  },
+  {
+    "slug": "precision-quartz",
+    "name": "Precision Quartz Works",
+    "tagline": "Industrial-grade slabs, handcrafted finishes.",
+    "location": "Cleveland, OH",
+    "services": [
+      "Thick-gauge slabs for heavy equipment pads",
+      "Thermoformed quartz cladding",
+      "Heat- and chemical-resistant surfacing",
+      "24/7 field repair and re-polish crews"
+    ],
+    "about": "Precision Quartz Works builds surfaces for harsh environments — from chemical plants to data centers. Our fabricators balance old-world craftsmanship with automation to deliver predictable performance.",
+    "contact": {
+      "phone": "+1 (216) 555-0179",
+      "email": "projects@precisionquartz.io",
+      "website": "https://precisionquartz.example.com"
+    },
+    "highlights": [
+      "On-site mockups for equipment anchoring",
+      "UL-rated fire-resistant quartz assemblies",
+      "Dock-to-install logistics across the Midwest"
+    ]
+  },
+  {
+    "slug": "sunrise-stone-labs",
+    "name": "Sunrise Stone Labs",
+    "tagline": "Hospital-ready quartz with designer-grade visuals.",
+    "location": "Phoenix, AZ",
+    "services": [
+      "Healthcare reception desks & nurse stations",
+      "Seamless shower surrounds and wall panels",
+      "Sustainable quartz with recycled aggregates",
+      "National rollouts with storefront prototyping"
+    ],
+    "about": "Sunrise Stone Labs bridges clinical durability with showroom appeal. We co-design with architects to deliver quartz experiences that withstand constant use while delighting visitors.",
+    "contact": {
+      "phone": "+1 (480) 555-4456",
+      "email": "specs@sunrisestone.labs",
+      "website": "https://sunrisestonelabs.example.com"
+    },
+    "highlights": [
+      "Healthcare-grade sealants and antimicrobial finishes",
+      "Rapid shop drawings with BIM-ready details",
+      "Desert Southwest fabrication with national freight partners"
+    ]
+  }
+]
