@@ -1,0 +1,77 @@
+[
+  {
+    "id": "aurora-quartz",
+    "name": "極光石英",
+    "location": "台北市內湖區",
+    "years": 15,
+    "services": ["住宅檯面", "商用吧台", "客製化切割"],
+    "contact": {
+      "phone": "+886-2-1234-5678",
+      "email": "hello@auroraquartz.tw",
+      "website": "https://auroraquartz.tw"
+    },
+    "highlights": ["24 小時內報價", "自有工廠 CNC 打磨", "通過 SGS 無毒驗證"],
+    "description": "專注高端住宅與商業空間的石英檯面客製化，提供從丈量、選材到安裝的一站式服務。",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "riverstone",
+    "name": "河石工坊",
+    "location": "新北市樹林區",
+    "years": 22,
+    "services": ["大型案場統包", "樓梯石材", "洗手台盆"],
+    "contact": {
+      "phone": "+886-2-8765-4321",
+      "email": "service@riverstone.tw",
+      "website": "https://riverstone.tw"
+    },
+    "highlights": ["專精戶外石英耐候處理", "提供 BIM 模型", "工地安全評鑑 A 級"],
+    "description": "擅長大型建案與公共工程的石英加工，重視工地管理與品質追蹤。",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "silkroad",
+    "name": "絲路石英",
+    "location": "台中市西屯區",
+    "years": 12,
+    "services": ["廚具品牌 OEM", "薄板背牆", "3D 弧形收邊"],
+    "contact": {
+      "phone": "+886-4-5566-7788",
+      "email": "info@silkroadquartz.com",
+      "website": "https://silkroadquartz.com"
+    },
+    "highlights": ["3D 弧面打磨技術", "與 6 家廚具通路合作", "快速樣品 3 天交付"],
+    "description": "提供廚具品牌代工與特殊造型加工，擅長薄板與弧形收邊處理。",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "coastal-quartz",
+    "name": "濱海石英",
+    "location": "高雄市左營區",
+    "years": 18,
+    "services": ["海島型飯店案場", "耐汙檯面", "即刻維修"],
+    "contact": {
+      "phone": "+886-7-3344-5566",
+      "email": "contact@coastalquartz.tw",
+      "website": "https://coastalquartz.tw"
+    },
+    "highlights": ["耐鹽害封孔技術", "南區 24 小時維修", "國際飯店合作經驗"],
+    "description": "服務南部與離島飯店的石英加工與維護，強調耐候與快修能力。",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "atelier-quartz",
+    "name": "工房石英",
+    "location": "台南市東區",
+    "years": 8,
+    "services": ["精品訂製櫃", "微水磨光澤", "小坪數廚房升級"],
+    "contact": {
+      "phone": "+886-6-9988-7766",
+      "email": "hi@atelierquartz.com",
+      "website": "https://atelierquartz.com"
+    },
+    "highlights": ["小宅最佳動線配置", "高顏值封邊選項", "陪同選材"],
+    "description": "聚焦小坪數住宅的高顏值石英升級方案，提供設計到完工的全流程服務。",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=900&q=80"
+  }
+]
