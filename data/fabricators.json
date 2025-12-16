@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Aurora Stonecraft",
+    "slug": "aurora-stonecraft",
+    "location": "Los Angeles, CA",
+    "region": "Southern California",
+    "summary": "Bespoke quartz fabrication for luxury residences, pairing museum-quality seam work with tight builder timelines.",
+    "services": ["Countertops & waterfall panels", "Precision templating", "On-site seam tuning"],
+    "specialties": ["Bookmatched feature walls", "Ultra-thin miters", "LED-integrated reception desks"],
+    "leadTime": "2-3 weeks for standard kitchens; 4-5 weeks for specialty installs",
+    "certifications": ["NSI Accredited", "Silestone Elite"],
+    "contact": {
+      "phone": "+1 (323) 555-1188",
+      "email": "hello@aurorastonecraft.com",
+      "website": "https://aurorastonecraft.example.com"
+    }
+  },
+  {
+    "name": "Summit Quartz Labs",
+    "slug": "summit-quartz-labs",
+    "location": "Denver, CO",
+    "region": "Rocky Mountain West",
+    "summary": "Technical surfaces for alpine hospitality and multi-family projects, engineered to handle freeze-thaw and heavy foot traffic.",
+    "services": ["CNC profiling & edge work", "Vent hood cladding", "Commercial bar tops"],
+    "specialties": ["Outdoor-rated quartz assemblies", "High-volume multifamily rollouts", "Quartz stair treads"],
+    "leadTime": "3 weeks for repeat models; 5 weeks for custom one-offs",
+    "certifications": ["NSI Accredited", "GreenGuard Gold"],
+    "contact": {
+      "phone": "+1 (720) 555-3344",
+      "email": "specs@summitquartzlabs.com",
+      "website": "https://summitquartzlabs.example.com"
+    }
+  },
+  {
+    "name": "Harborline Surfaces",
+    "slug": "harborline-surfaces",
+    "location": "Seattle, WA",
+    "region": "Pacific Northwest",
+    "summary": "Marine-influenced quartz worktops with integrated drainage and antimicrobial finishes for coastal kitchens and cafes.",
+    "services": ["Waterfall islands", "Marine-grade fabrication", "Integrated drainboards"],
+    "specialties": ["Radius island corners", "Seamless upstands", "Floating shelf cladding"],
+    "leadTime": "2 weeks for standard slabs; 4 weeks for marine-rated builds",
+    "certifications": ["Pental Quartz Partner"],
+    "contact": {
+      "phone": "+1 (206) 555-7120",
+      "email": "projects@harborlinesurfaces.com",
+      "website": "https://harborlinesurfaces.example.com"
+    }
+  },
+  {
+    "name": "MesaStone Fabrication",
+    "slug": "mesastone-fabrication",
+    "location": "Phoenix, AZ",
+    "region": "Desert Southwest",
+    "summary": "Heat-conscious quartz fabrication optimized for sun-exposed balconies and open-air kitchens across the Sonoran desert.",
+    "services": ["Outdoor kitchen packages", "Precision waterjet cutting", "Field measuring & layout"],
+    "specialties": ["UV-stable quartz builds", "Outdoor bartops with shade-integrated seams", "Slab matching for large islands"],
+    "leadTime": "2-3 weeks depending on material availability",
+    "certifications": ["Cambria Premier", "NSI Accredited"],
+    "contact": {
+      "phone": "+1 (480) 555-8602",
+      "email": "hi@mesastonefab.com",
+      "website": "https://mesastonefab.example.com"
+    }
+  },
+  {
+    "name": "Northwind Quartzworks",
+    "slug": "northwind-quartzworks",
+    "location": "Minneapolis, MN",
+    "region": "Upper Midwest",
+    "summary": "Fabricates resilient quartz surfaces for healthcare, education, and corporate environments with rigorous QC protocols.",
+    "services": ["High-volume tops", "Wall cladding systems", "Digital templating"],
+    "specialties": ["Sanitary seam treatments", "Nurse station tops", "Acoustic-friendly slab mounting"],
+    "leadTime": "4 weeks standard; expedited scheduling available",
+    "certifications": ["NSI Accredited", "LEED-compliant shop processes"],
+    "contact": {
+      "phone": "+1 (612) 555-9040",
+      "email": "build@northwindquartzworks.com",
+      "website": "https://northwindquartzworks.example.com"
+    }
+  }
+]
