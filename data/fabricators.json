@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "pacific-stoneworks",
+    "name": "Pacific Stoneworks",
+    "region": "Northern California",
+    "city": "Sacramento, CA",
+    "description": "Full-service quartz countertop fabricator focusing on modern kitchens and commercial tenant improvements.",
+    "services": [
+      "Kitchen and bath fabrication",
+      "Commercial reception desks",
+      "CNC edge profiling",
+      "On-site templating"
+    ],
+    "specialties": ["Waterfall islands", "Fast-turn tenant work", "Color-matched seams"],
+    "certifications": ["NSI Accredited", "Silestone Elite"],
+    "lead_time_weeks": 2,
+    "contact": {
+      "phone": "(916) 555-0182",
+      "email": "hello@pacificstoneworks.example",
+      "website": "https://pacificstoneworks.example.com",
+      "address": "2140 Arden Way, Sacramento, CA"
+    }
+  },
+  {
+    "slug": "desert-quartz-lab",
+    "name": "Desert Quartz Lab",
+    "region": "Southwest",
+    "city": "Phoenix, AZ",
+    "description": "Boutique fabricator blending engineered quartz with metal inlays for hospitality projects.",
+    "services": [
+      "Metal inlay routing",
+      "Backlit bar tops",
+      "Custom color matching",
+      "Precision mitering"
+    ],
+    "specialties": ["Backlit translucent panels", "Curved bartops"],
+    "certifications": ["Caesarstone Master Pro", "UL 2818 GREENGUARD"],
+    "lead_time_weeks": 4,
+    "contact": {
+      "phone": "(480) 555-0128",
+      "email": "projects@desertquartztlab.example",
+      "website": "https://desertquartztlab.example.com",
+      "address": "3030 E Camelback Rd, Phoenix, AZ"
+    }
+  },
+  {
+    "slug": "lakeshore-surfaces",
+    "name": "Lakeshore Surfaces",
+    "region": "Midwest",
+    "city": "Milwaukee, WI",
+    "description": "High-volume countertop plant specializing in quartz slabs for production builders and cabinet shops.",
+    "services": [
+      "High-volume cut-to-size",
+      "Integrated sink fabrication",
+      "Digital slab layout",
+      "Jobsite delivery"
+    ],
+    "specialties": ["Production scheduling", "Logistics management"],
+    "certifications": ["NSF-51", "ISO 9001"],
+    "lead_time_weeks": 3,
+    "contact": {
+      "phone": "(414) 555-0146",
+      "email": "sales@lakeshoresurfaces.example",
+      "website": "https://lakeshoresurfaces.example.com",
+      "address": "5500 W Burleigh St, Milwaukee, WI"
+    }
+  },
+  {
+    "slug": "seaside-fabrication",
+    "name": "Seaside Fabrication",
+    "region": "Pacific Northwest",
+    "city": "Seattle, WA",
+    "description": "Design-forward studio crafting quartz with Dekton and sintered stone accents for residential remodels.",
+    "services": [
+      "Waterjet cutting",
+      "Dekton/quartz hybrids",
+      "Floating shelf fabrication",
+      "Install and service"
+    ],
+    "specialties": ["Mixed-material assemblies", "Ultra-compact surfaces"],
+    "certifications": ["Dekton Approved", "Cambria Premier"],
+    "lead_time_weeks": 5,
+    "contact": {
+      "phone": "(206) 555-0199",
+      "email": "design@seasidefab.example",
+      "website": "https://seasidefab.example.com",
+      "address": "820 Alaskan Way, Seattle, WA"
+    }
+  },
+  {
+    "slug": "capital-countertops",
+    "name": "Capital Countertops",
+    "region": "Mid-Atlantic",
+    "city": "Arlington, VA",
+    "description": "Installation-focused shop known for fast home-center programs and meticulous punch-list service.",
+    "services": [
+      "Home-center install programs",
+      "Seam repair and re-polish",
+      "Field measuring",
+      "Tile-to-quartz transitions"
+    ],
+    "specialties": ["Next-day service windows", "Service truck program"],
+    "certifications": ["Silestone Elite", "NSI Accredited"],
+    "lead_time_weeks": 1,
+    "contact": {
+      "phone": "(571) 555-0112",
+      "email": "dispatch@capitaltops.example",
+      "website": "https://capitaltops.example.com",
+      "address": "1700 Wilson Blvd, Arlington, VA"
+    }
+  }
+]
